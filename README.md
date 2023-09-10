@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.35f5911b6761ecd292e0ee9b8596b69f?rik=EzXDilUTMdEeKQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hasham Younas</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"
