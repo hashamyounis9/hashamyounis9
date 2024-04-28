@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/younishasham" target="blank"><img src="https://img.shields.io/twitter/follow/younishasham?logo=twitter&style=for-the-badge" alt="younishasham" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [hashamyounas.me](hashamyounas.me)
 
