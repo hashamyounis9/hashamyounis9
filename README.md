@@ -1,6 +1,7 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io) -->
-<div style="text-align: center;"><img align="center" alt="Coding" width="300" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
-</div>
+<center>
+    <img width="300px" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt="">
+</center>
 <h1 align="center">Hi 👋, I'm Hasham Younas</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
@@ -37,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashamyounis9&show_icons=true&locale=en" alt="hashamyounis9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashamyounis9&" alt="hashamyounis9" /></p>
-<h1>Hash</h1>
