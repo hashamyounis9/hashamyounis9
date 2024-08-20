@@ -1,7 +1,6 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io) -->
-<center>
-    <img width="300px" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt="">
-</center>
+<img style="display: block; margin-left: auto; margin-right: auto;" width="300px" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt="">
+
 <h1 align="center">Hi 👋, I'm Hasham Younas</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
