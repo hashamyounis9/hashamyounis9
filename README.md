@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [hashamyounas.me](hasham.tech)
+- 👨‍💻 All of my projects are available at [hasham.tech](hasham.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@hashamyounis9](https://medium.com/@hashamyounis9)
 
